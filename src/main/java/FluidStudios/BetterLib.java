@@ -1,6 +1,7 @@
 package FluidStudios;
 
 public class BetterLib {
+    //
     public static void LoadLibrary(String lib) {
         String userDir = System.getProperty("user.dir");
         String os = System.getProperty("os.name").toLowerCase();
